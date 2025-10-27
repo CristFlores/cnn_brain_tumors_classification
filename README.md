@@ -1,4 +1,4 @@
-# Detección y Clasificación de Tumores Cerebrales con CNN
+# Detección y Clasificación de Tumores Cerebrales con Deep Learning
 
 Proyecto de Deep Learning para la detección y clasificación automática de tumores cerebrales en imágenes de Resonancia Magnética (MRI) utilizando Redes Neuronales Convolucionales.
 
